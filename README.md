@@ -39,5 +39,5 @@ Our project successfully identified key factors affecting Airbnb booking rates a
 ### Contest Results
 We ended up winning the contest with a test AUC score of 0.902. 
 
-![image](https://github.com/amlanmohanty1/Airbnb-Optimizing-High-Booking-Rate/assets/72063042/14a1e26a-7817-477a-a69a-6a011f23d7a8| width=100)
+<img src= "https://github.com/amlanmohanty1/Airbnb-Optimizing-High-Booking-Rate/assets/72063042/14a1e26a-7817-477a-a69a-6a011f23d7a8" width="100" height="100">
 
