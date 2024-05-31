@@ -37,6 +37,7 @@ This project aimed to predict the booking rates of Airbnb listings using advance
 Our project successfully identified key factors affecting Airbnb booking rates and provided practical recommendations for Airbnb hosts to optimize their listings. The use of advanced predictive models and comprehensive data analysis has demonstrated significant potential for improving rental revenue.
 
 ### Contest Results
-We ended up winning the contest with a test AUC score of 0.902.
-![image](https://github.com/amlanmohanty1/Airbnb-Optimizing-High-Booking-Rate/assets/72063042/14a1e26a-7817-477a-a69a-6a011f23d7a8)
+We ended up winning the contest with a test AUC score of 0.902. 
+
+![image](https://github.com/amlanmohanty1/Airbnb-Optimizing-High-Booking-Rate/assets/72063042/14a1e26a-7817-477a-a69a-6a011f23d7a8| width=100)
 
