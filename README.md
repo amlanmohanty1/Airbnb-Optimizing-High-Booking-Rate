@@ -1,6 +1,4 @@
-# Optimizing Airbnb Success with Data Mining
-
-## Course: BUDT 758T | Spring 2024
+## Optimizing Airbnb Success with Data Mining
 
 ### Team: Group 21
 
