@@ -27,9 +27,6 @@ This project aimed to predict the booking rates of Airbnb listings using advance
   - Visualized data trends using word clouds, geographical maps, box plots, scatter plots, bar charts, histograms, density plots, and violin plots to identify key factors influencing booking rates.
   - Analyzed market trends impacting Airbnb hosts, providing actionable insights for optimizing pricing and listing strategies, potentially increasing rental revenue by up to 20%.
 
-- **Collaborative Team Effort and Reporting:**
-  - Collaborated with a team of 4 members, integrating diverse skills in R coding, visualization, and report writing.
-  - Contributed to 60% of the final project report, ensuring clarity and coherence in presenting findings and methodologies.
 
 ### Technologies Used
 - **Programming Languages:** R
@@ -38,3 +35,8 @@ This project aimed to predict the booking rates of Airbnb listings using advance
 
 ### Conclusion
 Our project successfully identified key factors affecting Airbnb booking rates and provided practical recommendations for Airbnb hosts to optimize their listings. The use of advanced predictive models and comprehensive data analysis has demonstrated significant potential for improving rental revenue.
+
+### Contest Results
+We ended up winning the contest with a test AUC score of 0.902.
+![image](https://github.com/amlanmohanty1/Airbnb-Optimizing-High-Booking-Rate/assets/72063042/14a1e26a-7817-477a-a69a-6a011f23d7a8)
+
